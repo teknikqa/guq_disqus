@@ -1,0 +1,7 @@
+name = GU-Q Disqus
+description = Creates Disqus panels panes used by the site.
+package = GU-Q
+core = 7.x
+
+dependencies[] = ctools
+dependencies[] = panels
